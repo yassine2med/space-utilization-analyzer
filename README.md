@@ -2,6 +2,8 @@
 
 # space-utilization-analyzer
 
+[![CI](https://github.com/yassine2med/space-utilization-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/space-utilization-analyzer/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Turns badge-in and badge-out records into a utilization table for rooms and zones.
 
 ![Screenshot](docs/screenshot.png)
