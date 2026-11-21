@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="space-utilization-analyzer" width="100%"></p>
+
 # space-utilization-analyzer
 
 Turns badge-in and badge-out records into a utilization table for rooms and zones.
